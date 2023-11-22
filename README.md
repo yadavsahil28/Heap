@@ -20,3 +20,4 @@ This repository contains programming questions based on Heaps.
   2. Longest common Prefix https://leetcode.com/problems/longest-common-prefix/
   3. Replace Words https://leetcode.com/problems/replace-words/
   4. Implement Trie (Prefix Tree) https://leetcode.com/problems/implement-trie-prefix-tree/
+  5. Implement Phone Directory https://practice.geeksforgeeks.org/problems/phone-directory4628/1
