@@ -7,7 +7,7 @@ This repository contains programming questions based on Heaps.
 5. Merge 2 Max Heaps:https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1 
 6. Check if tree is a heap:  https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1 
 7. Minimum Cost of Ropes: https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1 
-8. Convert BST into Min-heap: https://www.geeksforgeeks.org/convert-bst-min-heap/ 
+8. Convert BST into Min-heap: https://www.codingninjas.com/studio/problems/convert-bst-to-min-heap_920498 
 9. Kth Largest Sum Sub-array: https://practice.geeksforgeeks.org/problems/k-th-largest-sum-contiguous-subarray/1 
 10. Merge K sorted Arrays:https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1 
 11. Merge K sorted Linked List:https://leetcode.com/problems/merge-k-sorted-lists/ 
